@@ -1,0 +1,1 @@
+The goal of this exercise is to implement a design pattern in typescript. as many files as required might be created.
