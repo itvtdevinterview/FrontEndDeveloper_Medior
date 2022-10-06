@@ -1,0 +1,1 @@
+The goal of this exercise is to implement methods of the Array type in Typescript
